@@ -32,14 +32,7 @@ Authors: OTRS AG (original version), Rother OSS GmbH (https://otobo.io).
    :caption: Contents
 
    introduction
+   agent
+   customer
    dashboard
-   avatar
-   customers
-   calendar
-   tickets
-   faq
-   chat
-   reports
-   admin
-   search
    history
